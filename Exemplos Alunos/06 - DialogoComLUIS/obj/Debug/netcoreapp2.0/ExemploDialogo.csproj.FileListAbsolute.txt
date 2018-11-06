@@ -9,3 +9,14 @@ C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.dll
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.pdb
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.csprojAssemblyReference.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\bin\Debug\netcoreapp2.0\ExemploDialogo.deps.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.dev.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\bin\Debug\netcoreapp2.0\ExemploDialogo.dll
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\bin\Debug\netcoreapp2.0\ExemploDialogo.pdb
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.csprojAssemblyReference.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.csproj.CoreCompileInputs.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfoInputs.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfo.cs
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.dll
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\06 - DialogoComLUIS\obj\Debug\netcoreapp2.0\ExemploDialogo.pdb

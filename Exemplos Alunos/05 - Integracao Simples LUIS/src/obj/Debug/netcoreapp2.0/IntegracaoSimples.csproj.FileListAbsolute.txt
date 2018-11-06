@@ -9,3 +9,14 @@ C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.AssemblyInfo.cs
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.dll
 C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.pdb
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.deps.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.runtimeconfig.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.runtimeconfig.dev.json
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.dll
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.pdb
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.csprojAssemblyReference.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.csproj.CoreCompileInputs.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.AssemblyInfoInputs.cache
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.AssemblyInfo.cs
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.dll
+R:\GitHub\Chat-Bot-Minicurso-UENP\Exemplos Alunos\05 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.pdb

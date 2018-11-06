@@ -12948,23 +12948,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL-Fabio\\.nuget\\packages\\": {},
+    "C:\\Users\\rafin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL-Fabio\\Documents\\uenp\\minicurso\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\IntegracaoSimples.csproj",
+      "projectUniqueName": "R:\\GitHub\\Chat-Bot-Minicurso-UENP\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\IntegracaoSimples.csproj",
       "projectName": "IntegracaoSimples",
-      "projectPath": "C:\\Users\\DELL-Fabio\\Documents\\uenp\\minicurso\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\IntegracaoSimples.csproj",
-      "packagesPath": "C:\\Users\\DELL-Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL-Fabio\\Documents\\uenp\\minicurso\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\obj\\",
+      "projectPath": "R:\\GitHub\\Chat-Bot-Minicurso-UENP\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\IntegracaoSimples.csproj",
+      "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
+      "outputPath": "R:\\GitHub\\Chat-Bot-Minicurso-UENP\\Exemplos Alunos\\05 - Integracao Simples LUIS\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL-Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
