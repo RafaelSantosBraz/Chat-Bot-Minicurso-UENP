@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+</head>
+<body style="font-family:'Segoe UI'">
+    <h1>Exemplo de ChatBot utilizando o Botbuilder 4.0 Preview</h1>
+    <p>Aqui é um exemplo simles de um chatbot que pergunta o nome do usuário.</p>
+    <p>To debug you bot using the Bot Framework Emulator, paste this URL into the Emulator window:</p>
+    <p>Para debugar a aplicação utilizando o Bot Framework Emulator, copie a URL abaixo na janela do emulador:</p>
+    <div style="padding-left: 50px;" id="botBaseUrl"></div>   
+    <script>
+        var urlDiv = document.getElementById("botBaseUrl");
+        var aTag = document.createElement('a');
+        aTag.setAttribute('href', location.protocol + "//" + location.host + "/api/messages");
+        aTag.innerHTML = location.protocol + "//" + location.host + "/api/messages";
+        urlDiv.appendChild(aTag);
+    </script>
+</body>
+</html>

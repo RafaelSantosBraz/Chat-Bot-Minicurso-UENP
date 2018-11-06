@@ -1,0 +1,127 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "ExemploLuis",
+  "desc": "",
+  "culture": "pt-br",
+  "intents": [
+    {
+      "name": "MarcarConsulta"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "PedirPizza"
+    },
+    {
+      "name": "PrevisaoTempo"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "como está o tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "gostaria de fazer um pedido",
+      "intent": "PedirPizza",
+      "entities": []
+    },
+    {
+      "text": "gostaria de marcar uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "gostaria de pedir uma pizza",
+      "intent": "PedirPizza",
+      "entities": []
+    },
+    {
+      "text": "oi quero uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "qual a previsão do tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "qual o tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero pedir uma pizza",
+      "intent": "PedirPizza",
+      "entities": []
+    },
+    {
+      "text": "quero pizza",
+      "intent": "PedirPizza",
+      "entities": []
+    },
+    {
+      "text": "quero saber se vai chover",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero saber se vai fazer sol",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "será que vai fazer chover",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "será que vai fazer sol",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "tem como fazer uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "vai chover",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "vai fazer sol",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "vocês tem pizza",
+      "intent": "PedirPizza",
+      "entities": []
+    }
+  ]
+}

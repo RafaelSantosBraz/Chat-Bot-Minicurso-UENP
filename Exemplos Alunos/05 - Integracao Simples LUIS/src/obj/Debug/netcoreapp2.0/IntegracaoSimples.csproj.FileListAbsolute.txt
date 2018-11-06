@@ -1,0 +1,11 @@
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.deps.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.runtimeconfig.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.runtimeconfig.dev.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\bin\Debug\netcoreapp2.0\IntegracaoSimples.pdb
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.csprojAssemblyReference.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.AssemblyInfoInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.AssemblyInfo.cs
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\03 - Integracao Simples LUIS\src\obj\Debug\netcoreapp2.0\IntegracaoSimples.pdb

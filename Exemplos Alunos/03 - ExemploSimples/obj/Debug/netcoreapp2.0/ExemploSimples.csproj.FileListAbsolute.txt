@@ -1,0 +1,24 @@
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\wwwroot\default.htm
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.deps.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.runtimeconfig.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.runtimeconfig.dev.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.pdb
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.csprojAssemblyReference.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.AssemblyInfoInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.AssemblyInfo.cs
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\01 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.pdb
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\wwwroot\default.htm
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.deps.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.runtimeconfig.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.runtimeconfig.dev.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.dll
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\bin\Debug\netcoreapp2.0\ExemploSimples.pdb
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.csprojAssemblyReference.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.csproj.CoreCompileInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.AssemblyInfoInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.AssemblyInfo.cs
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.dll
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\03 - ExemploSimples\obj\Debug\netcoreapp2.0\ExemploSimples.pdb

@@ -1,0 +1,12 @@
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\MeuBot1.deps.json
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\MeuBot1.runtimeconfig.json
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\MeuBot1.runtimeconfig.dev.json
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\MeuBot1.dll
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\bin\Debug\netcoreapp2.0\MeuBot1.pdb
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.csprojAssemblyReference.cache
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.csproj.CoreCompileInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.AssemblyInfoInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.AssemblyInfo.cs
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.dll
+C:\Users\rafin\Desktop\Minicurso\Bots\MeuBot1\MeuBot1\obj\Debug\netcoreapp2.0\MeuBot1.pdb

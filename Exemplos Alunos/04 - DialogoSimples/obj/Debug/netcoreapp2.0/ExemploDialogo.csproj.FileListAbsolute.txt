@@ -1,0 +1,21 @@
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.deps.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.dev.json
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.pdb
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfoInputs.cache
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfo.cs
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.dll
+C:\Users\DELL-Fabio\Documents\uenp\minicurso\exemplos\SerieBotBuilder4.0-master\SerieBotBuilder4.0-master\02 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.pdb
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.deps.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.runtimeconfig.dev.json
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.dll
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\bin\Debug\netcoreapp2.0\ExemploDialogo.pdb
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.csprojAssemblyReference.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.csproj.CoreCompileInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfoInputs.cache
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.AssemblyInfo.cs
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.dll
+C:\Users\rafin\Desktop\Minicurso\Exemplos Alunos\04 - DialogoSimples\obj\Debug\netcoreapp2.0\ExemploDialogo.pdb

@@ -1,0 +1,358 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "Jarvis",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "MarcarConsulta"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "PedirPizza"
+    },
+    {
+      "name": "PrevisaoTempo"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Cidade",
+      "roles": []
+    },
+    {
+      "name": "Sabor",
+      "roles": []
+    },
+    {
+      "name": "Tamanho",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "\" tell me perth weather , sclimate & temperature at australia \"",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "como está o tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "como está o tempo no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 21,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "get florence temperature in september",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "get for me the weather conditions in sonoma county",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "get the daily temperature greenwood indiana",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "get the weather at saint george utah",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "gostaria de fazer um pedido",
+      "intent": "PedirPizza",
+      "entities": []
+    },
+    {
+      "text": "gostaria de marcar uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "gostaria de pedir uma pizza grande de mussarela",
+      "intent": "PedirPizza",
+      "entities": [
+        {
+          "entity": "Tamanho",
+          "startPos": 28,
+          "endPos": 33
+        },
+        {
+          "entity": "Sabor",
+          "startPos": 38,
+          "endPos": 46
+        }
+      ]
+    },
+    {
+      "text": "how much rain does chambersburg get a year",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i want to know the temperature at death valley",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "oi quero uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "provide me by toronto weather please",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "qual a previsão do tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "qual a previsão do tempo no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 28,
+          "endPos": 41
+        }
+      ]
+    },
+    {
+      "text": "qual o tempo",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "qual o tempo no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 16,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "quero pedir uma pizza grande de mussarela",
+      "intent": "PedirPizza",
+      "entities": [
+        {
+          "entity": "Tamanho",
+          "startPos": 22,
+          "endPos": 27
+        },
+        {
+          "entity": "Sabor",
+          "startPos": 32,
+          "endPos": 40
+        }
+      ]
+    },
+    {
+      "text": "quero pizza de mussarela",
+      "intent": "PedirPizza",
+      "entities": [
+        {
+          "entity": "Sabor",
+          "startPos": 15,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "quero saber se vai chover",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero saber se vai chover no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 29,
+          "endPos": 42
+        }
+      ]
+    },
+    {
+      "text": "quero saber se vai fazer sol",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero saber se vai fazer sol no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 32,
+          "endPos": 45
+        }
+      ]
+    },
+    {
+      "text": "quero saber se vai fazer tempo bom",
+      "intent": "PrevisaoTempo",
+      "entities": []
+    },
+    {
+      "text": "quero uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "será que vai fazer sol no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 26,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "será que vai fazer tempo bom no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 32,
+          "endPos": 45
+        }
+      ]
+    },
+    {
+      "text": "show average rainfall for boise",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "show me the forecast at alabama",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "tem como fazer uma consulta",
+      "intent": "MarcarConsulta",
+      "entities": []
+    },
+    {
+      "text": "temperature of delhi in celsius please",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "vai chover no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 14,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "vai fazer sol no rio de janeiro",
+      "intent": "PrevisaoTempo",
+      "entities": [
+        {
+          "entity": "Cidade",
+          "startPos": 17,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "vocês tem pizza de mussarela",
+      "intent": "PedirPizza",
+      "entities": [
+        {
+          "entity": "Sabor",
+          "startPos": 19,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "was last year about this time as wet as it is now in the south ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what ' s the weather going to be like in hawaii ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what ' s the weather like in minneapolis",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is the rain volume in sonoma county ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is the weather in redmond ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is the weather today at 10 day durham ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what to wear in march in california",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what will the weather be tomorrow in accord new york ?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "will it be raining in ranchi",
+      "intent": "None",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\ExemploBot02.deps.json
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\ExemploBot02.runtimeconfig.json
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\ExemploBot02.runtimeconfig.dev.json
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\ExemploBot02.dll
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\bin\Debug\netcoreapp2.0\ExemploBot02.pdb
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.AssemblyInfoInputs.cache
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.AssemblyInfo.cs
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.dll
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.pdb
+C:\Users\DELL-Fabio\Source\Repos\ExemploBot02\ExemploBot02\obj\Debug\netcoreapp2.0\ExemploBot02.csprojAssemblyReference.cache
